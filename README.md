@@ -1,5 +1,5 @@
 # Appium System Tools
-A collection of shell scripts fot Android Emulator and iOS Simulator instalation just for MAC os (Darwin) atm.
+A collection of shell scripts for Android Emulator and iOS Simulator instalation just for MAC os (Darwin) atm.
 
 ## Prerequisites
 For any script:
